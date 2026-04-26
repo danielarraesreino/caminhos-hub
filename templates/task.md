@@ -1,0 +1,14 @@
+- [x] Analisar dados da MOC 4.0 (CNPJ/CNAE) via PDF
+- [x] Analisar objetivos do projeto (A Rua Tem Voz) via MD
+- [/] Criar materiais de prospecção
+    - [ ] Draft do Resumo Executivo para IPEA
+    - [ ] Template de E-mail para Secretarias de Assistência Social
+    - [ ] Proposta base para Fundação Tide Setúbal
+- [/] Preparar jornada de recursos (Grants)
+    - [ ] Guia de submissão AWS Activate (usando dados da MOC LTDA)
+    - [ ] Guia de submissão Google Cloud (Startup program)
+    - [ ] Definição de estratégia para Google for Nonprofits (necessita OSC)
+- [ ] Tracionar e Comunicar
+    - [ ] Estrutura de Pitch Deck visual
+    - [ ] Refinamento do copy da Landing Page (caminhos-cps.social)
+    - [ ] Lista de parceiros potenciais em Campinas (baseado no contacts.csv)
