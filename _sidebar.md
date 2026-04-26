@@ -4,6 +4,7 @@
 - **Guias & How-To**
   - [📣 Prospecção (Juliano)](HOWTO_PROSPECCAO.md)
   - [💻 Desenvolvimento (Daniel)](HOWTO_DESENVOLVIMENTO.md)
+  - [✍️ Escrita & Narrativa (Matheus)](HOWTO_ESCRITA_NARRATIVA.md)
 
 - **Materiais & Templates**
   - [📧 E-mail Prospecção](templates/email_prospeccao_prefeituras.md)

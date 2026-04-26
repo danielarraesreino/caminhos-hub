@@ -14,6 +14,10 @@ Transformar a vivência de 10 anos de rua em tecnologia de emancipação social,
     - Abordagem de Secretarias de Assistência Social.
     - Relacionamento com Fundações (Tide Setúbal, etc.).
     - Gestão do CRM de parceiros e doadores.
+- **Matheus Leite Praça (Lead Writer & Estrategista de Conteúdo)**:
+    - Redação da narrativa do Serious Game e diálogos.
+    - Sistematização do material pedagógico (Apostila Rua!).
+    - Validação metodológica e criação de roteiros imersivos.
 
 ## 📂 Estrutura do Hub
 - [DASHBOARD.md](DASHBOARD.md): Acompanhamento em tempo real de tarefas e metas.
